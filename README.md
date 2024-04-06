@@ -22,4 +22,9 @@ This is a wrapper function FinalProject.m, which uses previous functions to acco
 generates trajectory (generated_trajectory.csv), subsequently joint velocities, and the robot's next state  (next_state1.csv), which 
 can be simulated in CoppeliaSim Scene 6. 
 This program is designed for three tasks: Best, Overshooting, and the New Task. The initial and final locations of the cube are user-defined. Kp & Ki matrices for Best, Overshoot, and Next task are given in the program and must be chosen for each task.
+
+# results
+Best: https://www.youtube.com/watch?v=x05bqU1cqyI
+Overshoot: https://www.youtube.com/watch?v=_bFjHEhTV6I
+New Task: https://www.youtube.com/watch?v=vGOI-ic2gas
  
